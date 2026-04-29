@@ -1,0 +1,639 @@
+{
+  "active_clients": [
+    {
+      "name": "Caryn Meininger",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901800881001",
+      "kyc": "https://docs.google.com/spreadsheets/d/1p9jdEnhOyAJJ_0gH7mO8JFoq0HU5iG3oSqbiGeeE8PU/edit",
+      "emails": [
+        "carynlida@gmail.com",
+        "jenesiared13a@gmail.com"
+      ]
+    },
+    {
+      "name": "Gianni Logan",
+      "status": "Active",
+      "tracking_method": "Upwork",
+      "clickup_id": "901803087677",
+      "emails": [
+        "info@gianniloganpfc.com",  
+        "jenesiared15a@gmail.com"
+      ]
+    },
+    {
+      "name": "Dr. Nicola Ducharme",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "900801356268",
+      "project": "Restor Medicine",
+      "emails": [
+        "jenesiared20a@gmail.com",
+        "nicola.ducharme@gmail.com"
+      ]
+    },
+    {
+      "name": "Melinda Willingham",
+      "status": "Active",
+      "tracking_method": "Upwork",
+      "clickup_id": "901806050805",
+      "emails": [
+        "jenesiared26a@gmail.com",
+        "mwillingham39@gmail.com"
+      ]
+    },
+    {
+      "name": "Duncan Campbell",
+      "status": "Active",
+      "tracking_method": "Upwork",
+      "clickup_id": "901806101545",
+      "project": "Island Equity Systems",
+      "emails": [
+        "duncanalexcampbell@gmail.com",
+        "jenesiared28a@gmail.com"
+      ]
+    },
+    {
+      "name": "Stacey Louie",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901807980486",
+      "emails": [
+        "jenesiared32a@gmail.com",
+        "slouie@hyperdriveagile.com"
+      ]
+    },
+    {
+      "name": "Matthew Jordan Smith",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901810038510",
+      "emails": [
+        "jenesiared33a@gmail.com",
+        "mjs@matthewjordansmith.com"
+      ]
+    },
+    {
+      "name": "Daniella Coffey",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "email": "jenesiared34a@gmail.com"
+    },
+    {
+      "name": "Amy Johnston",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901810985268",
+      "project": "WCNS Career Accelerator",
+      "emails": [
+        "amy@merrickmed.com",
+        "jenesiared35a@gmail.com"
+      ]
+    },
+    {
+      "name": "Charmaine Schembri",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901805814084",
+      "projects": [
+        "Lash Industry",
+        "Coffee Machine Emporium"
+      ],
+      "emails": [
+        "charmaine@letselevate.it",
+        "jenesia@letselevate.it"
+      ]
+    },
+    {
+      "name": "Gabi Metz",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "email": "hello@thesoulagency.co"
+    },
+    {
+      "name": "Milana",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "email": "katarina@thesoulagency.co"
+    },
+    {
+      "name": "Jen Maldonado",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "emails": [
+        "j.red@jenmaldonado.com",
+        "jennmaldonado2017@gmail.com"
+      ]
+    },
+    {
+      "name": "Karen Sole",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901808939546",
+      "emails": [
+        "JenRed@virtualenglishcourse.com",
+        "karensole@virtualenglishcourse.com"
+      ]
+    },
+    {
+      "name": "Katharina Espinoza",
+      "status": "Active",
+      "tracking_method": "Upwork",
+      "clickup_id": "900801356186",
+      "email": "hello@thesoulagency.co"
+    },
+    {
+      "name": "Rick Vasquez",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "emails": [
+        "rickvasquez.info@gmail.com",
+        "rick@cactushomeoffer.com"
+      ]
+    },
+    {
+      "name": "Theresa Barnabei",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901807025324",
+      "emails": [
+        "jenesia.red07@gmail.com",
+        "tbconsults@gmail.com"
+      ]
+    },
+    {
+      "name": "Tami Sims",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "emails": [
+        "jenesiared36a@gmail.com",
+        "230tami@gmail.com"
+      ]
+    },
+    {
+      "name": "Zoe",
+      "status": "Active",
+      "tracking_method": "Unknown",
+      "email": "kattsateam@hotmail.com"
+    },
+    {
+      "name": "Katy Poole",
+      "status": "Active",
+      "tracking_method": "Upwork",
+      "clickup_id": "901810038657",
+      "email": "katy@katypoole.com"
+    },
+    {
+      "name": "Lori Kennedy",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901811475207"
+    },
+    {
+      "name": "Cedrick Sabrine | Personal",
+      "status": "Active",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Danielle French",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901810038527",
+      "email": "hello@danniefrench.com.au"
+    },
+    {
+      "name": "Gabi \u00e2\u20ac\u201c Katharina Espinoza",
+      "status": "Active",
+      "tracking_method": "Upwork",
+      "clickup_id": "901805393698"
+    },
+    {
+      "name": "Jennifer Maldonado",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901808405534"
+    },
+    {
+      "name": "Snaply",
+      "status": "Active",
+      "tracking_method": "Clockify",
+      "clickup_id": "901812037415"
+    },
+    {
+      "name": "VIP Scale",
+      "status": "Active",
+      "tracking_method": "No Need to Track",
+      "clickup_id": "901805955289"
+    },
+    {
+      "name": "Susan Rusalen",
+      "status": "Active",
+      "tracking_method": "Clockify"
+    }
+  ],
+  "paused_clients": [
+    {
+      "name": "Asher \u00e2\u20ac\u201c Somatics Institute for Women",
+      "tracking_method": "Upwork"
+    },
+    {
+      "name": "BILT",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Edana",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Katie Kirsopp \u00e2\u20ac\u201c Life Whispering",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Skai \u00e2\u20ac\u201c Esteban",
+      "tracking_method": "Upwork"
+    },
+    {
+      "name": "Lilo",
+      "tracking_method": "No Need to Track"
+    },
+    {
+      "name": "S\u00e2\u20ac\u2018Tier Property Group",
+      "tracking_method": "No Need to Track"
+    }
+  ],
+  "stopped_clients": [
+    {
+      "name": "Dr. Gretchen Hawley",
+      "tracking_method": "Clockify",
+      "clickup_id": "900802201734",
+      "project": "MSing Link Online Wellness Program",
+      "emails": [
+        "drgretchenhawley@gmail.com",
+        "jenesiared02a@gmail.com"
+      ]
+    },
+    {
+      "name": "Bill Hazelton",
+      "tracking_method": "Unknown",
+      "emails": [
+        "jenesiared04a@gmail.com",
+        "bill.hazelton@gmail.com"
+      ]
+    },
+    {
+      "name": "Miles V. B.",
+      "tracking_method": "Unknown",
+      "emails": [
+        "jenesiared08a@gmail.com",
+        "milesvb251@gmail.com"
+      ]
+    },
+    {
+      "name": "Holly Allen",
+      "tracking_method": "Clockify",
+      "emails": [
+        "jenesiared09a@gmail.com",
+        "usayic2@gmail.com"
+      ]
+    },
+    {
+      "name": "Stephanie Worell",
+      "tracking_method": "Unknown",
+      "emails": [
+        "jenesiared11a@gmail.com",
+        "stephworrellpr@gmail.com"
+      ]
+    },
+    {
+      "name": "Marina Alex",
+      "tracking_method": "Clockify",
+      "clickup_id": "901802503439",
+      "emails": [
+        "jenesiared14a@gmail.com",
+        "marina@swaysales.org"
+      ]
+    },
+    {
+      "name": "Wenche Beard",
+      "tracking_method": "Unknown",
+      "emails": [
+        "jenesiared16a@gmail.com",
+        "wenchebeard@gmail.com"
+      ]
+    },
+    {
+      "name": "Eddie",
+      "tracking_method": "Clockify",
+      "emails": [
+        "Beautifulbeats99@gmail.com",
+        "jenesiared17a@gmail.com"
+      ]
+    },
+    {
+      "name": "Anna Ball",
+      "tracking_method": "Clockify",
+      "emails": [
+        "anna@thebrandteam.com.au",
+        "jenesiared19a@gmail.com"
+      ]
+    },
+    {
+      "name": "Graham White",
+      "tracking_method": "Upwork",
+      "emails": [
+        "Effectiveethicalmarketing@gmail.com",
+        "jenesiared22a@gmail.com"
+      ]
+    },
+    {
+      "name": "Maxine (Maxine / Roxanne) D",
+      "tracking_method": "Unknown",
+      "email": "jenesiared23a@gmail.com"
+    },
+    {
+      "name": "Gregor Spielmann",
+      "tracking_method": "Unknown",
+      "email": "jenesiared24a@gmail.com"
+    },
+    {
+      "name": "John Whale",
+      "tracking_method": "Upwork",
+      "emails": [
+        "jenesiared30a@gmail.com",
+        "thewealthwhale@gmail.com"
+      ]
+    },
+    {
+      "name": "Antonio Diaz",
+      "tracking_method": "Timeproof",
+      "emails": [
+        "antonio@leadyourpacklv.com",
+        "jenesiared31a@gmail.com"
+      ]
+    },
+    {
+      "name": "Asher Somatic Institute Operations | Whale",
+      "tracking_method": "Unknown",
+      "email": "tiantatum915@gmail.com"
+    },
+    {
+      "name": "Bonnie Bliss",
+      "tracking_method": "Upwork",
+      "emails": [
+        "hello@bonniebliss.co",
+        "support@bonniebliss.co"
+      ]
+    },
+    {
+      "name": "Carlo Chincarini",
+      "tracking_method": "Upwork",
+      "email": "carlo@thekingmaker.com.au"
+    },
+    {
+      "name": "Sabrina Seidman",
+      "tracking_method": "Unknown",
+      "emails": [
+        "iruhse@gmail.com",
+        "seidsproduction@gmail.com"
+      ]
+    },
+    {
+      "name": "Jennifer Richardson",
+      "tracking_method": "Unknown",
+      "email": "jennifer@123financialgroup.com.au"
+    },
+    {
+      "name": "Yasmeen Turayhi",
+      "tracking_method": "Unknown",
+      "emails": [
+        "Yasmeen.Turayhi@gmail.com",
+        "yasmeen.turayhi@gmail.com"
+      ]
+    },
+    {
+      "name": "Jessica Pinili",
+      "tracking_method": "Unknown",
+      "email": "jessica@jessicapinili.com"
+    },
+    {
+      "name": "Jamie Kerr",
+      "tracking_method": "Unknown",
+      "email": "jamie@jetsetmindset.net"
+    },
+    {
+      "name": "Jennifer Louise",
+      "tracking_method": "Unknown",
+      "email": "jennifermorley106@gmail.com"
+    },
+    {
+      "name": "Kayla Zigic",
+      "tracking_method": "Upwork",
+      "clickup_id": "901807758701",
+      "email": "kldredge@hotmail.com"
+    },
+    {
+      "name": "Gail Starr",
+      "tracking_method": "Unknown",
+      "email": "gail@starr.co.za"
+    },
+    {
+      "name": "Grant Hanson",
+      "tracking_method": "Unknown"
+    },
+    {
+      "name": "Lori Synder",
+      "tracking_method": "Unknown"
+    },
+    {
+      "name": "Stef Rodden",
+      "tracking_method": "Unknown",
+      "email": "stefrodden@gmail.com"
+    },
+    {
+      "name": "Candice Davies",
+      "tracking_method": "Unknown",
+      "emails": [
+        "jenesia.red07+candice@gmail.com",
+        "candicedavies28@gmail.com"
+      ]
+    },
+    {
+      "name": "Gordi Hernandez",
+      "tracking_method": "Unknown"
+    },
+    {
+      "name": "Jennifer McKnight",
+      "tracking_method": "Unknown",
+      "email": "Marketing@jennibeanskin.com"
+    },
+    {
+      "name": "Estelle Carroll",
+      "tracking_method": "Unknown",
+      "email": "estelle@bosscoaching.com.au"
+    },
+    {
+      "name": "Cheryl Kuchek",
+      "tracking_method": "Unknown",
+      "emails": [
+        "via@vipscale.com",
+        "teamcherylkuchek2021@gmail.com"
+      ]
+    },
+    {
+      "name": "Michael De Boeck",
+      "tracking_method": "Unknown",
+      "email": "michael@prominenceagency.com"
+    },
+    {
+      "name": "Eszter Godor",
+      "tracking_method": "Unknown"
+    },
+    {
+      "name": "Suzzane Faith",
+      "tracking_method": "Unknown",
+      "email": "suzanne@suzannefaith.com"
+    },
+    {
+      "name": "Steve Olson",
+      "tracking_method": "Unknown",
+      "email": "websupport@fig.us"
+    },
+    {
+      "name": "MaryEllen Gleason",
+      "tracking_method": "Unknown",
+      "email": "mgleason@alignphilanthropy.com"
+    },
+    {
+      "name": "Tim Eaton",
+      "tracking_method": "Unknown",
+      "email": "tim eaton.timmy@gmail.com"
+    },
+    {
+      "name": "Michelle Fernandez",
+      "tracking_method": "Toggle",
+      "email": "michelle@themichellefernandez.com"
+    },
+    {
+      "name": "Georgia Hicks",
+      "tracking_method": "Unknown",
+      "email": "georgia@yogawithgeorgia.com.au"
+    },
+    {
+      "name": "Katie Kirsopp",
+      "tracking_method": "Unknown",
+      "email": "Hello@katiekirsopp.com"
+    },
+    {
+      "name": "Karis Harlon",
+      "tracking_method": "Unknown",
+      "email": "karis@karisharlon.com"
+    },
+    {
+      "name": "Jon Hillstead",
+      "tracking_method": "Unknown",
+      "email": "contact@jonhillstead.com"
+    },
+    {
+      "name": "Skai - Esteban Delacroix",
+      "tracking_method": "Unknown",
+      "email": "skai@kaenergetics.com"
+    },
+    {
+      "name": "Mary-Anne Gillespie",
+      "tracking_method": "Unknown",
+      "email": "ceo@redapplecoaching.ca"
+    },
+    {
+      "name": "Jacqueline & Greg Yeats",
+      "tracking_method": "Unknown",
+      "email": "Jacqueline@mindfulandcokids.com"
+    },
+    {
+      "name": "Edana Marshall",
+      "tracking_method": "Unknown",
+      "email": "goddessgcdrive@gmail.com"
+    },
+    {
+      "name": "Asher R",
+      "tracking_method": "Unknown"
+    },
+    {
+      "name": "Jennifer Love Puente",
+      "tracking_method": "Unknown",
+      "email": "lovegoodsinternational@gmail.com"
+    },
+    {
+      "name": "Lili Lack",
+      "tracking_method": "Clockify",
+      "emails": [
+        "jenesia.red07@gmail.com",
+        "marlynelak@gmail.com"
+      ]
+    },
+    {
+      "name": "Chad Gibson",
+      "tracking_method": "Clockify",
+      "clickup_id": "900801324078",
+      "kyc": "https://docs.google.com/spreadsheets/d/19CNAop3nhrisDoHSOJOf4ssmwa8KfkqY9BWf12cxtn4/edit",
+      "emails": [
+        "chad@chadgibson.com",
+        "chadgibson@me.com"
+      ]
+    },
+    {
+      "name": "Dr. Kennette Thigpen",
+      "tracking_method": "Upwork",
+      "clickup_id": "900801438529",
+      "email": "drkennette@welltrustpartners.com"
+    },
+    {
+      "name": "Kelly Langford",
+      "tracking_method": "Upwork",
+      "clickup_id": "901810122110",
+      "emails": [
+        "hellotlf@hotmail.com",
+        "langfordkellyrose@gmail.com"
+      ]
+    },
+    {
+      "name": "Dovydas \u00e2\u20ac\u201c Griffin Underwood",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Jacqueline & Greg",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Jennifer Love",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Jennifer Richardson \u00e2\u20ac\u201c 123 Financial Group",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Mary\u00e2\u20ac\u2018Anne Gillespie",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Maxine & Roxanne \u00e2\u20ac\u201c The Virtual Studio",
+      "tracking_method": "Upwork"
+    },
+    {
+      "name": "Miles V.",
+      "tracking_method": "Clockify"
+    },
+    {
+      "name": "Sabrina Seidman \u00e2\u20ac\u201c SEIDS",
+      "tracking_method": "Timeproof"
+    },
+    {
+      "name": "Stephanie Worrell",
+      "tracking_method": "Upwork"
+    },
+    {
+      "name": "Wenche Beard \u00e2\u20ac\u201c Living Yoga Community",
+      "tracking_method": "Clockify"
+    }
+  ]
+}
