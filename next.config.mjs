@@ -7,11 +7,6 @@ const __dirname = path.dirname(__filename);
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   serverExternalPackages: ["fs", "path"],
-  turbo: {
-    resolveAlias: {
-      "tailwindcss": path.resolve(__dirname, "./node_modules/tailwindcss"),
-    },
-  },
 };
 
 export default nextConfig;
