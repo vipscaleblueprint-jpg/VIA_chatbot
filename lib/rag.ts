@@ -74,7 +74,7 @@ export async function retrieveContext(query: string): Promise<RetrievalResult> {
     const faceKeywords = ["face", "eyes", "hair", "skin", "features", "look", "expression", "facial"];
 
     // 1. ROUTING & INTENT
-    let requestType: string = "SOP";
+    let requestType: "SOP" | "CLIENT" | "BROLL" | "VPS" | "PERSONA" | "BODY" | "FACE" = "SOP";
 
     const isBroll = brollKeywords.some(kw => queryLower.includes(kw));
     const isVPS = vpsKeywords.some(kw => queryLower.includes(kw));
@@ -89,11 +89,11 @@ export async function retrieveContext(query: string): Promise<RetrievalResult> {
     const isClient = clientKeywords.some(kw => queryLower.includes(kw));
     const isSOP = sopKeywords.some(kw => queryLower.includes(kw));
 
-    if (isCaryn) requestType = "Caryn Meininger";
-    else if (isNicola) requestType = "Dr. Nicola Ducharme";
-    else if (isChad) requestType = "Chad Gibson";
-    else if (isCharmaine) requestType = "Charmaine Schembri";
-    else if (isDanielle) requestType = "Danielle French";
+    if (isCaryn) requestType = "Caryn Meininger" as any;
+    else if (isNicola) requestType = "Dr. Nicola Ducharme" as any;
+    else if (isChad) requestType = "Chad Gibson" as any;
+    else if (isCharmaine) requestType = "Charmaine Schembri" as any;
+    else if (isDanielle) requestType = "Danielle French" as any;
     else if (isBroll) requestType = "BROLL";
     else if (isVPS) requestType = "VPS";
     else if (isPersona) requestType = "PERSONA";
@@ -123,8 +123,9 @@ export async function retrieveContext(query: string): Promise<RetrievalResult> {
         // SOP and VPS are uppercase. Others are lowercase or have specific names.
         const tableName =
           requestType === "BROLL" ? "broll_tags" :
-            (requestType === "VPS" || requestType === "SOP" || isCustomTable) ? requestType :
-              requestType.toLowerCase();
+            requestType === "CLIENT" ? "clients" :
+              (requestType === "VPS" || requestType === "SOP" || isCustomTable) ? requestType :
+                requestType.toLowerCase();
 
         console.log(`RAG: Fetching ${requestType} data from local table: ${tableName}`);
         const supabase = createInternalClient();
@@ -316,7 +317,7 @@ export async function retrieveContext(query: string): Promise<RetrievalResult> {
         const vpsInfo = item.vps || item.details || item.content || "N/A";
         const product = item.product || "N/A";
         contextParts.push(`[VPS DETAILS]: ${title}\nProduct: ${product}\nVPS/Details: ${vpsInfo}\nRaw Data: ${JSON.stringify(item)}`);
-      } else if (["PERSONA", "BODY", "FACE"].includes(requestType)) {
+      } else if (["PERSONA", "BODY", "FACE"].includes(requestType as any)) {
         const typeLabel = requestType.charAt(0) + (requestType as string).slice(1).toLowerCase();
         const content = item[`${(requestType as string).toLowerCase()}_analysis`] || item.content || item.details || item.persona_details || JSON.stringify(item);
         contextParts.push(`[${typeLabel} Analysis]: ${item.name || item.client || "Profile"}\n${content}`);
